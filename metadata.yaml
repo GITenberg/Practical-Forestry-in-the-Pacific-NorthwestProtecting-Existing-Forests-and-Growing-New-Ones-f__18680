@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8189'
     url: http://www.gutenberg.org/2009/agents/8189
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18680#Practical-Forestry-in-the-Pacific-NorthwestProtecting-Existing-Forests-and-Growing-New-Ones-f_
 gutenberg_bookshelf: Forestry
 gutenberg_issued: '2006-06-25'
 gutenberg_type: Text
