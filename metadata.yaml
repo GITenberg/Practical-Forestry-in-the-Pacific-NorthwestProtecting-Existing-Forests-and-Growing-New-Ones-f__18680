@@ -1,0 +1,30 @@
+_repo: Practical-Forestry-in-the-Pacific-NorthwestProtecting-Existing-Forests-and-Growing-New-Ones-f__18680
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allen, E. T. (Edward Tyson)
+    alias: Allen, Edward Tyson
+    birthdate: 1875
+    gutenberg_agent_id: '8189'
+    url: http://www.gutenberg.org/2009/agents/8189
+description: ''
+gutenberg_bookshelf: Forestry
+gutenberg_issued: '2006-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18680'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SD'
+- !lcsh 'Pacific Coast -- Forestry'
+title: 'Practical Forestry in the Pacific Northwest
+
+  Protecting Existing Forests and Growing New Ones, from the Standpoint of the Public
+  and That of the Lumberman, with an Outline of Technical Methods'
+url: http://www.gutenberg.org/ebooks/18680
